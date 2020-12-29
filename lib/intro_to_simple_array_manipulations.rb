@@ -11,8 +11,6 @@ def using_unshift(array, string)
 end
  
 def using_pop(array)
-  binding.pry
-
   pop_array.pop
 end
 
