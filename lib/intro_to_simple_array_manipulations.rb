@@ -1,4 +1,3 @@
-
 def using_push(array, element)
   push_array = ["hello", "greetings", "bye"]
   push_array.push("violet")
