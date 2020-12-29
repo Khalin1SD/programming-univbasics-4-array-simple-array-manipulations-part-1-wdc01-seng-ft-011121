@@ -22,6 +22,8 @@ def using_shift(this_array)
  this_array.shift(1)
  "Lagos"
 end
+
+def shift_with_args()
   
   
   
