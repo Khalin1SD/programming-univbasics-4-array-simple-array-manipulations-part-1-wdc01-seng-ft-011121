@@ -18,3 +18,16 @@ def pop_with_args(my_array)
   my_array.pop(2)
 end
 
+def using_shift(this_array)
+  this
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
