@@ -14,8 +14,7 @@ def using_pop(array)
   array.pop
 end
 
-def pop_with_args(array)
-  pop_array_args = ["hi", "Chihuahua", "Shiba Inu"]
-  pop_array_args.pop(2)
+def pop_with_args(my_array)
+  my_array.pop(2)
 end
 
