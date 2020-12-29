@@ -25,7 +25,7 @@ end
 
 def shift_with_args(that_array)
   that_array = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
-  th
+  that_array.shift()
   
   
   
