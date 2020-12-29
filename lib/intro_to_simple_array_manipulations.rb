@@ -12,7 +12,7 @@ end
  
 def using_pop(array)
   binding.pry
-  pop_array = ["hello", "he", "did", "Antarctica"]
+
   pop_array.pop
 end
 
