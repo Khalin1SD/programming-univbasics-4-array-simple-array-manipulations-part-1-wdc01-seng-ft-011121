@@ -23,7 +23,8 @@ def using_shift(this_array)
  "Lagos"
 end
 
-def shift_with_args()
+def shift_with_args(that_array)
+  
   
   
   
