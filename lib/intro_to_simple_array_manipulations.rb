@@ -5,6 +5,7 @@ def using_push(array, element)
 end
 
 def using_unshift(array, string)
+  binding.pry
   unshift_array = Array.new(4)
   unshift_array.unshift("Staten Island")
 end
