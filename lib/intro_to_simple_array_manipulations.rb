@@ -20,7 +20,7 @@ end
 
 def using_shift(this_array)
  this_array.shift(1)
- puts 
+ "Lagos"
 end
   
   
